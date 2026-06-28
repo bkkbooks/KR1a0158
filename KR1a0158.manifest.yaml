@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR1a0158/v1
+canonical_location: https://kanripo.org/bkk/KR1a0158/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 易象大意存解
+  date: '2015-08-24 22:00:52.802856'
+  source:
+    repository: kanripo
+    path: KR1a0158
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0158_000.yaml, hash: 'sha256:ea2a5c3bfba52bbf2705fa8e022b1eebca84e4e7e4b73edbce06f573e7220fdf'}
+  - {seq: 1, filename: KR1a0158_001.yaml, hash: 'sha256:d3af8358ad8d566f4eaea0292b7a70fff1fd238b0344c0dfc6435d167525509c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1a0158_000.markers.yaml, hash: 'sha256:3cd3ac74b44484720d7bfba08a559367f7c661947b4cb38930bbe7ad5b426fbe'}
+  - {seq: 1, role: markers, filename: assets/KR1a0158_001.markers.yaml, hash: 'sha256:4d1f5d9e97e3e34cb61992adf92e1422c9ed84349ed7515f9dfe2d3c9ed9a3e0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1a0158_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 336
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1a0158_WYG_000-3a
+    span:
+    - body
+    - 336
+    - 790
+  label: 讀易要言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1a0158_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14129
+  label: 易象大意存解
+  type: section
+  level: 1
+hash: sha256:c27b2ef07cb01a4c0a55fe9887a1da787be38aa9b507b379e0c900a01860b00a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
