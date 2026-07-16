@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR1a0158_000.yaml, hash: 'sha256:7682746612a87679da8f5b25fb29745392a61ba0010b3a233ee06c2cce0ae51f'}
   - {seq: 1, filename: KR1a0158_001.yaml, hash: 'sha256:a1840f37b586261c516963d12bc6aabdc1fab6014b160e38bf385627c1dc82c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1a0158_000.markers.yaml, hash: 'sha256:adf8d6b5a8eb182419412cc80a81dd9c54f1cfc340aea60c1f1c87c49b790fcd'}
+  - {seq: 0, role: markers, filename: assets/KR1a0158_000.markers.yaml, hash: 'sha256:867a0798be2be24209ceddb48df9ab9539798df2fe72ff35842a9c413a6eeaa0'}
   - {seq: 1, role: markers, filename: assets/KR1a0158_001.markers.yaml, hash: 'sha256:51aacb1a762110cc55fbbc4c8f15d00c32a3c34d41a2ddc08925739525f87186'}
 table_of_contents:
 - ref:
@@ -56,7 +56,7 @@ table_of_contents:
   label: 易象大意存解
   type: section
   level: 1
-hash: sha256:7c77b4b9308640fe849a3e15de7e01aaf0a0515dd14d38ce7f140edf0c749abf
+hash: sha256:f32d3134b0a3cf3ddbf8eff33cb54d90e1e7db83b162797dd466b0fd1208091e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
